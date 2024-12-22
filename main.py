@@ -5,5 +5,6 @@ from libmult import *
 a = 13
 b = 5
 print(plus(a,b))
+print(plusx(a,2,c))
 print(mult(a,b))
 print(multx(a,b,2))
